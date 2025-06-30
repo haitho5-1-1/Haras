@@ -7,3 +7,4 @@ tweepy
 praw
 matplotlib
 python-dotenv
+pytrends
