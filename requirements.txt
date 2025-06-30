@@ -1,0 +1,1 @@
+streamlit pandas numpy scikit-learn requests tweepy praw pytrends yfinance textblob
